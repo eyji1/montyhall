@@ -6,7 +6,7 @@ This package provides a simple, modular implementation of the Monty Hall game, m
 
 ---
 
-## 📦 Package Overview
+##  Package Overview
 
 The Monty Hall problem involves three doors:
 - One door hides a prize
@@ -18,7 +18,7 @@ Counterintuitively, switching doors results in a higher probability of winning.
 
 ---
 
-## 🔧 Functions
+##  Functions
 
 The package is organized into small, clearly defined functions that mirror the steps of the game:
 
@@ -44,7 +44,7 @@ The package is organized into small, clearly defined functions that mirror the s
 
 ---
 
-## ▶️ Example Usage
+##  Example Usage
 
 ```r
 library(montyhall)
